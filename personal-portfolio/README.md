@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### References
+- Github pages: https://www.npmjs.com/package/angular-cli-ghpages
+- Github pages, Github Actions, CI/CD: https://angular.schule/blog/2020-01-everything-github
+- Personal Portfolio Angular: https://github.com/punithraj14/Personal-Portfolio-Angular
+- FormsFree : https://formspree.io/plans
+- Github profile: https://github.com/chandrikadeb7
+- Resume : https://brittanychiang.com/resume.pdf
+- Personal Portfolio: https://github.com/bchiang7/v4
+- Portfolio: https://chandrikadeb7.github.io/#about
+
